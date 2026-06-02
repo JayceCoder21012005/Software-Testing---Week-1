@@ -86,3 +86,80 @@ Company activities and events
 CoverGo Company
 
 By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo's and you consent to the processing of your data as part of this application."
+
+
+### Prompt #4 - Phân tích ảnh hưởng của AI đến việc làm này thông qua AI
+* **Thời gian:** 22:05 - 02/06/2026
+* **Công cụ:** Chatgpt (GPT - 4.0)
+* **Nội dung prompt:**
+> "About The Role
+
+We are looking for a motivated and enthusiastic QA Engineer Intern to join our engineering team. This is a fantastic opportunity for students or recent graduates to gain hands-on experience in software testing while working on an internal tool that tracks and presents delivery metrics from Jira and other corporate platforms.
+
+In this role, you will be involved in verifying both backend and frontend functionalities, ensuring the reliability of real internal systems and cross-functional data. Working closely with our engineering team, you will gain practical exposure to real-world software testing lifecycles and development workflows while growing in a supportive and collaborative environment.
+
+What You Will Do
+
+Perform automated testing on new technologies and features to ensure their reliability and functionality
+Identify and report defects in applications, contributing to product quality improvement
+Collaborate with Business Analysts and other stakeholders to understand feature implementations and project requirements
+Write and execute test scenarios to ensure comprehensive coverage
+Support the enhancement and maintenance of existing test frameworks
+Investigate and assist in determining the root cause of bugs
+Contribute to test plans for projects and features, ensuring a structured testing approach
+Assist in creating tailored test frameworks for projects that can be reasonably automated
+Manage and triage reported defects, collaborating with developers to resolve issues
+Continuously support improvements in the testing infrastructure for better reliability
+Stay informed on features delivered by other teams to understand possible system interactions
+Provide code updates and utilities to support the testing process when necessary
+
+What We Need
+
+Currently a 3rd or 4th-year student in Computer Science, Information Technology, or a related field, or a recent graduate
+Familiar with the Software Testing Life Cycle (STLC) and Agile methodologies
+Fluent in English (written and verbal) for clear collaboration and reporting
+Strong analytical, problem-solving, and detail-oriented mindset
+Practical exposure to programming languages (e.g., JavaScript, Python, Java)
+Familiarity with automation testing frameworks like Selenium, Cypress, or Postman
+Basic knowledge of Git, CI/CD workflows, or SQL databases
+Strong mathematical aptitude or prior experience in programming contests
+Strong attention to detail with logical thinking and problem-solving skills
+Proactive, self-motivated, and eager to learn
+Ability to work independently as well as collaboratively within a team
+Must be based in Ho Chi Minh City, Vietnam
+
+Why You'll Love Working Here
+
+Hybrid Setup
+International Environment
+Professional Development Opportunities
+Company activities and events
+
+Với JD như thế này thì AI có tác động như nào đến vị trí này (Nêu tóm tắt không dài lê thê)"
+
+* **Ouput:** 
+> "Bạn có thể viết ngắn gọn phần AI Impact Analysis như sau:
+
+AI is transforming software testing by automating repetitive tasks such as test case generation, bug detection, regression testing, and test reporting. However, QA Engineers remain essential for designing test strategies, validating business requirements, performing exploratory testing, analyzing complex defects, and ensuring overall product quality. In this role, AI is more likely to enhance productivity and testing efficiency rather than replace QA professionals.
+
+Hoặc phiên bản ngắn hơn để đưa vào báo cáo:
+
+AI can automate parts of software testing, including test generation, execution, and defect analysis. However, human QA engineers are still needed to understand business requirements, design effective test strategies, perform exploratory testing, and validate user experience. AI is expected to act as a productivity tool rather than a replacement for QA roles.
+
+Đối với JD này, các công việc dễ bị AI hỗ trợ mạnh nhất là:
+
+Sinh test cases từ requirements.
+Viết automation scripts cơ bản (Selenium, Cypress, Postman).
+Phân tích log và đề xuất nguyên nhân lỗi.
+Tạo test reports và documentation.
+
+Các công việc vẫn cần QA Engineer:
+
+Hiểu nghiệp vụ (business logic).
+Thiết kế test strategy.
+Exploratory testing.
+Đánh giá trải nghiệm người dùng.
+Phối hợp với BA, Developer và Stakeholders.
+Xác nhận bug thực sự ảnh hưởng đến sản phẩm như thế nào.
+
+=> Mức độ tác động của AI với vị trí QA Intern: Trung bình – AI hỗ trợ rất nhiều công việc kỹ thuật nhưng chưa thể thay thế hoàn toàn khả năng tư duy kiểm thử và hiểu nghiệp vụ của con người."
