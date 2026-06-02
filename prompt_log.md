@@ -16,3 +16,73 @@
 * **Công cụ:** Gemini (Gemini 3.5 Thinking)
 * **Nội dung prompt:**
 > "Write overall market analysis here — trends, in-demand skills, salary ranges, geographic distribution, AI impact on the QA profession, etc. in 2026"
+
+### Prompt #2 - Tóm tắt Job Description
+* **Thời gian:** 21:51- 02/06/2026
+* **Công cụ:** Chatgpt (GPT - 4.0)
+* **Nội dung prompt:**
+> "Tóm tắt job description này: Top 3 Reasons To Join Us
+
+International Environment
+Working on the latest tech for the Insurtech Market Leader
+Exposure to Diverse HR Functions
+
+About Us
+
+At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.
+
+We are a leading global no-code insurance platform for health, life, and P&C
+We're the winner of the Insurtech of the Year in all of Asia and other awards globally
+We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more
+We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world
+We are fully funded and backed by reputable VC funds and strategic institutional investors
+We have a global presence in Asia, EMEA and the Americas
+We've grown our annualized revenue by over 30x since January 2021
+We're constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world
+
+About The Role
+
+We are looking for a motivated and enthusiastic QA Engineer Intern to join our engineering team. This is a fantastic opportunity for students or recent graduates to gain hands-on experience in software testing while working on an internal tool that tracks and presents delivery metrics from Jira and other corporate platforms.
+
+In this role, you will be involved in verifying both backend and frontend functionalities, ensuring the reliability of real internal systems and cross-functional data. Working closely with our engineering team, you will gain practical exposure to real-world software testing lifecycles and development workflows while growing in a supportive and collaborative environment.
+
+What You Will Do
+
+Perform automated testing on new technologies and features to ensure their reliability and functionality
+Identify and report defects in applications, contributing to product quality improvement
+Collaborate with Business Analysts and other stakeholders to understand feature implementations and project requirements
+Write and execute test scenarios to ensure comprehensive coverage
+Support the enhancement and maintenance of existing test frameworks
+Investigate and assist in determining the root cause of bugs
+Contribute to test plans for projects and features, ensuring a structured testing approach
+Assist in creating tailored test frameworks for projects that can be reasonably automated
+Manage and triage reported defects, collaborating with developers to resolve issues
+Continuously support improvements in the testing infrastructure for better reliability
+Stay informed on features delivered by other teams to understand possible system interactions
+Provide code updates and utilities to support the testing process when necessary
+
+What We Need
+
+Currently a 3rd or 4th-year student in Computer Science, Information Technology, or a related field, or a recent graduate
+Familiar with the Software Testing Life Cycle (STLC) and Agile methodologies
+Fluent in English (written and verbal) for clear collaboration and reporting
+Strong analytical, problem-solving, and detail-oriented mindset
+Practical exposure to programming languages (e.g., JavaScript, Python, Java)
+Familiarity with automation testing frameworks like Selenium, Cypress, or Postman
+Basic knowledge of Git, CI/CD workflows, or SQL databases
+Strong mathematical aptitude or prior experience in programming contests
+Strong attention to detail with logical thinking and problem-solving skills
+Proactive, self-motivated, and eager to learn
+Ability to work independently as well as collaboratively within a team
+Must be based in Ho Chi Minh City, Vietnam
+
+Why You'll Love Working Here
+
+Hybrid Setup
+International Environment
+Professional Development Opportunities
+Company activities and events
+
+CoverGo Company
+
+By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo's and you consent to the processing of your data as part of this application."
