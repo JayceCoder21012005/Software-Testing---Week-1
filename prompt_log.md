@@ -388,3 +388,9 @@ Cho tôi đánh giá tác động của AI đối với công việc này bằng
 * **Công cụ:** ClaudeAI (Claude Sonnet 4.6)
 * **Nội dung prompt:**
 > "Bạn xem requirements 3 và tạo cho tôi cái khung file excel bằng tiếng việt đi cho dễ hiểu, tôi có sự dụng quạt máy"
+
+### Prompt #11 - AI hỗ trợ tạo ra QA/QC roadmap.
+* **Thời gian:** 21:48 - 04/06/2026
+* **Công cụ:** ClaudeAI (Claude Sonnet 4.6)
+* **Nội dung prompt:**
+> "Bây giờ bạn hãy tạo giúp tôi QA/QC role mindmap dưới dạng markdown nha, để tôi hoàn thành bài tập này của thầy. Output cho ra phải có trật tự chính xác rõ ràng, đúng với yêu cầu role QA QC hiện tại"
