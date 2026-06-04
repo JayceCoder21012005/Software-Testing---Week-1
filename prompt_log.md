@@ -269,7 +269,7 @@ Hơn thế nữa, Công ty luôn nỗ lực để nâng cao chỉ số hạnh ph
 Với JOB description như này thì AI sẽ có tác động như nào đến công việc này."
 
 ### Prompt #7 - Phân tích ảnh hưởng của AI đến việc làm này thông qua AI
-* **Thời gian:** 16:30 - 04/06/2026
+* **Thời gian:** 16:37 - 04/06/2026
 * **Công cụ:** Gemini (Gemini 3.5 Flash)
 * **Nội dung prompt:**
 > "Lead and manage the QC team to ensure the quality of online game products before release.
@@ -311,3 +311,67 @@ Snacks and drinks lounge.
 Weekly sports clubs (Console, Badminton, Soccer, Archery, ...).
 
 Với yêu cầu công việc như này thì tôi AI ảnh hưởng đến công việc này như thế nào "
+
+### Prompt #8 - Phân tích ảnh hưởng của AI đến việc làm này thông qua AI
+* **Thời gian:** 20:21 - 04/06/2026
+* **Công cụ:** Gemini (Gemini 3.5 Flash)
+* **Nội dung prompt:**
+> "Mô tả công việc
+
+Đọc hiểu các tài liệu yêu cầu, tài liệu đặc tả và các tài liệu thiết kế dự án.
+
+Xây dựng test plan
+
+Xây dựng test case/ test data theo Game Design Document.
+
+Thực hiện kiểm thử, log lỗi và theo dõi tiến độ fix bug.
+
+Đưa ra phản hồi về giao diện và trải nghiệm chơi để cải thiện chất lượng game.
+
+Phân tích, theo dõi và báo cáo kết quả kiểm thử, đánh giá chất lượng sản phẩm.
+
+Tham gia xây dựng các tài liệu liên quan đến quy trình kiểm thử phần mềm.
+
+Đảm bảo chất lượng sản phẩm hoàn thành theo thiết kế và yêu cầu của dự án.
+
+Yêu cầu ứng viên
+
+Có kinh nghiệm từ 2 năm trong lĩnh vực kiểm thử game.
+
+Đam mê chơi game, có kinh nghiệm chơi nhiều game mobile và hiểu biết về xu hướng thị trường.
+
+Hiểu biết về quy trình kiểm thử phần mềm và các giai đoạn kiểm thử.
+
+Thành thạo sử dụng các công cụ theo dõi lỗi Gitlab hoặc các công cụ tương tự.
+
+Kỹ năng phân tích và giải quyết vấn đề: Khả năng xác định nguyên nhân gốc rễ của lỗi và đề xuất giải pháp.
+
+Tính cách tỉ mỉ, cẩn thận, có tinh thần trách nhiệm cao và tư duy logic tốt.
+
+Có khả năng làm việc độc lập cũng như làm việc nhóm và giao tiếp hiệu quả.
+
+Tự tin với kinh nghiệm bản thân trong môi trường làm game chuyên nghiệp.
+
+Ưu tiên: Hiểu biết về mô hình Agile/Scrum: kiến thức agile tester; kiến thức cơ bản về Unity và các công cụ phát triển game.
+
+Quyền lợi
+
+Tự tin với kinh nghiệm bản thân trong môi trường làm game chuyên nghiệp.
+
+Thời gian làm việc: 8H=>17H30, từ Thứ 2=>Thứ 6
+
+Chế độ lương thưởng hấp dẫn, tương xứng với năng lực bao gồm thưởng theo dự án, theo quý và các ngày Lễ, Tết;
+
+Review lương 6 tháng/lần, du lịch + team building thường xuyên
+
+Môi trường làm việc trẻ trung, vui vẻ, thoải mái, không overtime;
+
+Công ty đóng hỗ trợ ăn trưa, vé xe, bảo hiểm 100%
+
+Lương: 12.000.000 đến 15.000.000
+
+
+
+Cho tôi đánh giá tác động của AI đối với công việc này bằng tiếng anh dưới dạng Latex thuộc phần 
+
+\subsubsection*{AI Impact Analysis}"
