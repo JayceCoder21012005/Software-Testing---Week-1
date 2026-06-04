@@ -381,3 +381,10 @@ Cho tôi đánh giá tác động của AI đối với công việc này bằng
 * **Công cụ:** Gemini (Gemini 3.5 Flash)
 * **Nội dung prompt:**
 > "Lên mạng tìm 15 lỗi phần mềm nổi tiếng (2022-2026) như các vụ hack, lỗi hệ thống lớn (ví dụ: sự cố CrowdStrike 2024, các lỗ hổng bảo mật của Microsoft, Apple...). Tìm cho tôi"
+
+
+### Prompt #10 - AI hỗ trợ tạo 15 testcases để test quạt
+* **Thời gian:** 19:07 - 04/06/2026
+* **Công cụ:** ClaudeAI (Claude Sonnet 4.6)
+* **Nội dung prompt:**
+> "Bạn xem requirements 3 và tạo cho tôi cái khung file excel bằng tiếng việt đi cho dễ hiểu, tôi có sự dụng quạt máy"
