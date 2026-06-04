@@ -164,8 +164,8 @@ Xác nhận bug thực sự ảnh hưởng đến sản phẩm như thế nào.
 
 => Mức độ tác động của AI với vị trí QA Intern: Trung bình – AI hỗ trợ rất nhiều công việc kỹ thuật nhưng chưa thể thay thế hoàn toàn khả năng tư duy kiểm thử và hiểu nghiệp vụ của con người."
 
-
-### Prompt #5 - 
+## Ngày 04/06/2026
+### Prompt #5 - Đánh giá của AI dựa trên công mô tả công việc
 * **Thời gian:** 15:59- 04/06/2026
 * **Công cụ:** Chatgpt (GPT - 4.0)
 * **Nội dung prompt:**
@@ -207,3 +207,63 @@ Paid time off
 Insurance
 
 Đánh giá ảnh hưởng của AI đến công việc này"
+
+### Prompt #6 - Đánh giá của AI dựa trên công mô tả công việc
+* **Thời gian:** 16:21 - 04/06/2026
+* **Công cụ:** Gemini (Gemini 3.5 Flash)
+* **Nội dung prompt:**
+> "Yêu cầu:
+3 năm kinh nghiệm chuyên môn
+Đại Học trở lên
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Chuyên môn:
+Software Tester (Automation & Manual)
+IT - Phần mềm
+Mô tả công việc
+Xây dựng chiến lược Automation Testing phù hợp với từng dự án và từng giai đoạn phát triển sản phẩm.
+Thiết kế và chuẩn hóa quy trình Automation Testing trong công ty.
+Thiết kế, phát triển và duy trì Automation Framework cho Web, API và Mobile Testing.
+Xây dựng và quản lý bộ Regression Test tự động.
+Tích hợp Automation Testing vào quy trình CI/CD.
+Theo dõi các chỉ số chất lượng như Automation Coverage, Test Coverage, Defect Leakage và Test Execution Result.
+Làm việc với PM, BrSE, Developer và QA để đảm bảo chất lượng sản phẩm.
+Nghiên cứu và ứng dụng AI vào hoạt động kiểm thử.
+Đào tạo, mentoring và phát triển đội ngũ QA/Automation QA.
+Yêu cầu ứng viên
+Tối thiểu 5 năm kinh nghiệm Software Testing.
+Tối thiểu 3 năm kinh nghiệm Automation Testing.
+Có kinh nghiệm xây dựng hoặc maintain Automation Framework.
+Thành thạo Playwright, Selenium, Cypress, Appium hoặc Robot Framework.
+Có kinh nghiệm kiểm thử Web Application và API Testing.
+Thành thạo JavaScript/TypeScript, Java, Python hoặc C#.
+Hiểu rõ SDLC, STLC và Agile/Scrum.
+Có kinh nghiệm Git, SQL, REST API và CI/CD.
+Ưu tiên ứng viên có kinh nghiệm khách hàng Nhật Bản và khả năng tiếng Nhật.
+Kỹ năng mềm:
+Tư duy logic và khả năng phân tích tốt.
+Kỹ năng giao tiếp, teamwork và leadership tốt.
+Khả năng đào tạo và phát triển thành viên.
+Chủ động và liên tục cải tiến quy trình.
+Quyền lợi
+1. Lương thưởng và các phúc lợi khác
+Review lương 1-2 lần/năm nhằm đảm bảo sự nỗ lực của các bạn luôn là xứng đáng
+Thưởng tết theo hiệu suất làm việc, thưởng theo từng dự án, thưởng lễ tết để ghi nhận sự đóng góp của các bạn tại công ty
+Chế độ nghỉ ngơi đặc biệt cho chị em phụ nữ
+Chế độ ốm đau, hiếu hỉ, thai sản: Công ty luôn cố gắng quan tâm đến đời sống của các bạn thông qua các chế độ này
+2. Cơ hội phát triển
+Với nhiều dự án lớn, đa dạng ngành nghề, sử dụng nhiều công nghệ. Đó là lợi thế và cũng là cơ hội để bạn học hỏi, nâng cao kỹ năng, kinh nghiệm trong lĩnh vực IT
+Công ty tài trợ chi phí thi các chứng chỉ chuyên môn và có chính sách thưởng hấp dẫn khi đạt được các chứng chỉ chuyên môn
+Lấy việc đào tạo làm nòng cốt của sự phát triển, Yopaz có các chương trình đào tạo hàng tuần như: đào tạo tiếng Nhật, đào tạo chuyên môn...
+3. Môi trường làm việc
+Thời gian làm việc: từ thứ 2 đến thứ 6 (linh hoạt giờ check-in từ 8:00 - 9:00)
+Chế độ WFH
+Du lịch, teambuilding cố định 1-2 lần/năm
+Cung cấp đầy đủ trang thiết bị hiện đại phục vụ công việc (PC, Laptop, Mac mini, Macbook)
+Happy hour hàng tuần, nơi các Yopazer có thể thư giãn sau một tuần làm việc đầy mệt mỏi. Bạn có thể đắm chìm trong những gameshow kỳ thú, du dương theo các bản nhạc hay thả mình vào Yopaz radio nhẹ nhàng
+Yopaz - nơi ươm mầm tài năng trẻ với hàng loạt CLB: Âm nhạc, piano, bóng đá, bóng bàn, ...
+Ở Yopaz, bạn được thưởng thức trà, cafe, bánh kẹo miễn phí
+Hơn thế nữa, Công ty luôn nỗ lực để nâng cao chỉ số hạnh phúc của các Yopazer thông qua việc xây dựng văn hóa lắng nghe, thấu hiểu và chia sẻ. Yopaz hy vọng sẽ là người bạn đồng hành với mỗi cá nhân trên con đường tìm kiếm và theo đuổi sứ mệnh.
+Với JOB description như này thì AI sẽ có tác động như nào đến công việc này."
