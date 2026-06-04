@@ -313,7 +313,7 @@ Weekly sports clubs (Console, Badminton, Soccer, Archery, ...).
 Với yêu cầu công việc như này thì tôi AI ảnh hưởng đến công việc này như thế nào "
 
 ### Prompt #8 - Phân tích ảnh hưởng của AI đến việc làm này thông qua AI
-* **Thời gian:** 20:21 - 04/06/2026
+* **Thời gian:** 16:50 - 04/06/2026
 * **Công cụ:** Gemini (Gemini 3.5 Flash)
 * **Nội dung prompt:**
 > "Mô tả công việc
@@ -375,3 +375,9 @@ Lương: 12.000.000 đến 15.000.000
 Cho tôi đánh giá tác động của AI đối với công việc này bằng tiếng anh dưới dạng Latex thuộc phần 
 
 \subsubsection*{AI Impact Analysis}"
+
+### Prompt #9 - AI hỗ trợ tìm kiếm 15 lỗi liên quan đến requirement 2.
+* **Thời gian:** 17:37 - 04/06/2026
+* **Công cụ:** Gemini (Gemini 3.5 Flash)
+* **Nội dung prompt:**
+> "Lên mạng tìm 15 lỗi phần mềm nổi tiếng (2022-2026) như các vụ hack, lỗi hệ thống lớn (ví dụ: sự cố CrowdStrike 2024, các lỗ hổng bảo mật của Microsoft, Apple...). Tìm cho tôi"
