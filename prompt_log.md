@@ -394,3 +394,10 @@ Cho tôi đánh giá tác động của AI đối với công việc này bằng
 * **Công cụ:** ClaudeAI (Claude Sonnet 4.6)
 * **Nội dung prompt:**
 > "Bây giờ bạn hãy tạo giúp tôi QA/QC role mindmap dưới dạng markdown nha, để tôi hoàn thành bài tập này của thầy. Output cho ra phải có trật tự chính xác rõ ràng, đúng với yêu cầu role QA QC hiện tại"
+
+### Prompt #12 - AI hỗ trợ tạo ra 15 testcase Tiếng Anh (Phục vụ cho report)
+* **Thời gian:** 23:40 - 04/06/2026
+* **Công cụ:** ClaudeAI (Claude Sonnet 4.6)
+* **Nội dung prompt:**
+> "Generate 15 detailed test cases for a standard household electric fan (non-smart, mechanical buttons, 3 speed levels, oscillation function). Include columns: Objective, Input/Action, Steps, Expected Result."
+
