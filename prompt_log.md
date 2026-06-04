@@ -267,3 +267,47 @@ Yopaz - nơi ươm mầm tài năng trẻ với hàng loạt CLB: Âm nhạc, pi
 Ở Yopaz, bạn được thưởng thức trà, cafe, bánh kẹo miễn phí
 Hơn thế nữa, Công ty luôn nỗ lực để nâng cao chỉ số hạnh phúc của các Yopazer thông qua việc xây dựng văn hóa lắng nghe, thấu hiểu và chia sẻ. Yopaz hy vọng sẽ là người bạn đồng hành với mỗi cá nhân trên con đường tìm kiếm và theo đuổi sứ mệnh.
 Với JOB description như này thì AI sẽ có tác động như nào đến công việc này."
+
+### Prompt #7 - Phân tích ảnh hưởng của AI đến việc làm này thông qua AI
+* **Thời gian:** 16:30 - 04/06/2026
+* **Công cụ:** Gemini (Gemini 3.5 Flash)
+* **Nội dung prompt:**
+> "Lead and manage the QC team to ensure the quality of online game products before release.
+Define QC strategy, testing processes, and quality standards across projects.
+Plan, assign, and monitor testing activities, ensuring timelines and deliverables are met.
+Review test cases, test plans, and execution results (functional & non-functional testing).
+Oversee bug tracking, reporting, regression testing, and ensure proper closure of issues.
+Collaborate closely with Technical Leads, Developers, and cross-functional teams to improve product quality.
+Provide regular status reports, risk assessments, and quality insights to stakeholders.
+Identify areas for improvement in testing processes, tools, and workflows.
+Mentor, train, and develop team members to enhance their testing skills and performance.
+Ensure builds meet quality benchmarks before release.
+Participate in product discussions to provide QA perspective early in development.
+Handle escalations and critical quality issues effectively.
+Undertake additional tasks as assigned by upper management.
+Yêu cầu ứng viên
+At least 5+ years of experience in software/game testing, including 2+ years in a leadership role.
+Strong understanding of game testing methodologies, QA processes, and lifecycle.
+Experience in test planning, test case design, and execution.
+Proven experience in team management, task allocation, and performance evaluation.
+Strong analytical skills with attention to detail.
+Excellent communication and stakeholder management skills.
+Ability to work effectively under pressure and manage multiple priorities.
+Graduated in Information Technology, Software Engineering, or related fields.
+Passion for gaming and strong understanding of game mechanics and user experience.
+NICE TO HAVE
+Experience working in Agile/Scrum environments.
+Knowledge of automation testing tools is a plus.
+Experience with live game operations or multiplayer systems.
+Quyền lợi
+MacBook Pro and additional working-support devices provided on demand.
+100% salary during probation.
+Competitive long-term salary package + performance bonus.
+Performance and salary review at each release milestone.
+13th-month salary + Lucky money.
+Friendly working environment, no office politics.
+5-star Company trip abroad + Monthly Team building + birthday bonus.
+Snacks and drinks lounge.
+Weekly sports clubs (Console, Badminton, Soccer, Archery, ...).
+
+Với yêu cầu công việc như này thì tôi AI ảnh hưởng đến công việc này như thế nào "
