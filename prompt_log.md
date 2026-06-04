@@ -163,3 +163,47 @@ Phối hợp với BA, Developer và Stakeholders.
 Xác nhận bug thực sự ảnh hưởng đến sản phẩm như thế nào.
 
 => Mức độ tác động của AI với vị trí QA Intern: Trung bình – AI hỗ trợ rất nhiều công việc kỹ thuật nhưng chưa thể thay thế hoàn toàn khả năng tư duy kiểm thử và hiểu nghiệp vụ của con người."
+
+
+### Prompt #5 - 
+* **Thời gian:** 15:59- 04/06/2026
+* **Công cụ:** Chatgpt (GPT - 4.0)
+* **Nội dung prompt:**
+> "Dựa trên mô tả của công việc sau: OptiSigns is the leading digital signage company in North America, with over 30,500 customers in 121 countries. Our cloud-based platform helps organizations manage screens and content across retail, hospitality, education, and corporate environments. We are a fast-growing, customer-obsessed team building simple, scalable, and reliable products.
+
+The Role: QA Engineer (Fresher)
+
+Learn to test Android, web, and device features, write clear test cases, and help keep releases high‑quality. Training and mentorship provided.
+
+Key Responsibilities
+
+ Execute functional, regression, and exploratory tests for apps and devices
+ Log reproducible defects with detailed steps, logs, and screenshots
+ Maintain test cases and results; assist with smoke/sanity runs
+ Collaborate with engineers to verify fixes and improve coverage
+
+Requirements
+
+Requirements
+
+ Recent graduate in CS/Engineering or related field
+ Detail‑oriented, curious, and eager to learn testing fundamentals
+ Basic scripting or SQL is a plus
+ Professional English proficiency required
+
+Work Arrangement & Location
+
+ On-site, in-office role in Ho Chi Minh City, Vietnam
+
+Benefits
+
+Benefits
+
+Opportunity to travel and work at our U.S. office in Houston, TX
+Latest Macbook Pro
+Competitive Pay
+Company Trip
+Paid time off
+Insurance
+
+Đánh giá ảnh hưởng của AI đến công việc này"
